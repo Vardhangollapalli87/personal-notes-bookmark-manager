@@ -37,8 +37,8 @@ A full-stack web application to manage personal notes and bookmarks with search,
 
 ---
 
-``` ## 📂 Project Structure
-
+ ## 📂 Project Structure
+```
 backend/ 
 └── src/
 ├── models/
